@@ -11,6 +11,7 @@ namespace consoleapp1
             Console.WriteLine("Novo2");
         }
     }
+
 }
 
 // ovaj je program vrlo cool! Bravo!
