@@ -12,3 +12,5 @@ namespace consoleapp1
         }
     }
 }
+
+// ovaj je program vrlo cool! Bravo!
